@@ -1,7 +1,3 @@
-![image](https://github.com/smwbalfe/voxel-vegetation-engine/assets/156598111/7c8bcd36-d30b-4e86-8833-8e63db33664a)Below is a draft for a GitHub README that explains how the Voxel Vegetation Engine works in detail and lists the core technologies used. This draft aims to provide a comprehensive overview suitable for the repository's main page.
-
----
-
 # Voxel Vegetation Engine
 
 The Voxel Vegetation Engine is a cutting-edge, open-source project designed to simulate and render dynamic vegetation environments in a voxel-based world. Leveraging modern graphics programming techniques and procedural content generation, this engine offers a unique platform for developers and researchers interested in exploring the intersection of computer graphics, ecology, and procedural generation.
