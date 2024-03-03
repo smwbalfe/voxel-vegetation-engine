@@ -43,7 +43,7 @@
 old_archive
 # CMake
 cmake-build-*/
-
+update
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
